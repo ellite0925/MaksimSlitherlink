@@ -1,7 +1,7 @@
 import {ReduceStore} from 'flux/utils'
 import AppDispatcher from './AppDispatcher'
 import ActionTypes from './ActionTypes'
-import Board from '../models/Board'
+import Board from '../models/board'
 import ProblemStore from './ProblemStore'
 import Cookies from 'universal-cookie';
 

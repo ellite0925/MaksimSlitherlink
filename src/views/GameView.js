@@ -1,5 +1,5 @@
 import React from 'react'
-import Board from '../models/Board'
+import Board from '../models/board'
 import Actions from '../data/Actions'
 import LineView from './LineView'
 
